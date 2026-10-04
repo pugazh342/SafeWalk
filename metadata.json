@@ -1,0 +1,6 @@
+{
+  "name": "SafeWalk",
+  "description": "Women's safety companion app with community volunteer escorts, live dual-GPS tracking, real-time audio distress detection, and instant offline/online SOS dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
